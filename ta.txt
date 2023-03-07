@@ -1,0 +1,66 @@
+GOALS
+
+Fast paced, frantic -> exciting
+Easy to grasp -> minimise frustration, easy to rank up
+
+
+
+SCORE SYSTEM
+
+Good:
+Combo multiplier -> easy to understand, encourages speed
+Hyper system -> faster kills, feels good, resource management
+Proximity -> encourages them to move around and speedkill stuff
+Medal chain -> adds tension, distract from speedkills
+
+Ok:
+Secrets -> also adds tension, but players may not find all of them
+
+Bad:
+Kill method bonus -> complicated, not obvious
+Graze/Cancels -> discourages speed, exploitable with infinite lives
+Simultaneous kills -> goes against combo system
+
+Overall:
+
+Kill up close -> spawn big medals -> build hyper meter quicker -> hyper to kill faster -> build chain faster + safer -> can play more aggressively
+
+Edits:
+Chain -> decay when chain gauge is empty, -20% on death
+Medal -> medal chain to level up only (chain 10 to level up), medal drops don't matter, death reduces medal level
+
+
+
+MECHANICS
+
+[x] Focus mode/Charge shot -> used to deal with big tanky enemies, variety
+Options -> can be hard to master, may feel bad
+[x] Bombs -> extra player agency, can include maximum bonus?
+
+
+
+ENEMIES
+Zako in formation (DOJ stage 4), doubled shots (combine with zako formation)
+3-way zako, move towards player slowly (DOJ stage 3)
+Random spread
+Downwards fan + faster aimed bullets
+Something that creates lanes (DOJ stage 1)
+Linear downwards streams (DOJ stage 4)
+Building that spawns a ton of medals when shot, has high HP (DOJ stage 2)
+Wave/spiral pattern
+Shoots aimed shots until almost directly under, then release a wide volley (DOJ stage 3)
+Alternate between odd and even-ways (flower cluster)
+Curved fan (Mushi stage 4 midboss)
+Lanes + spread (Mushi stage 4)
+Restrict + spread (Mushi stage 4 boss)
+Overlapping spread patterns sweeping side to side in opposite directions (Mushi stage 4 midboss)
+
+High rank ver.
+Kamikaze -> shoots slow bullets, so they trail behind it
+Zako -> long stream
+Master/slave -> slaves shoot bullets, slaves shoot revenge bullets when master is killed
+Formation -> ???
+3-way zako -> ???
+Random spread -> ???
+...
+Alternator -> wide spread (Garegga/Batrider boss 1)

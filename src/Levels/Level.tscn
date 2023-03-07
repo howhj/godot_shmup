@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://src/Actors/Player.tscn" type="PackedScene" id=1]
+[ext_resource path="res://src/Levels/Spawner.tscn" type="PackedScene" id=2]
+[ext_resource path="res://src/Levels/Background.tscn" type="PackedScene" id=3]
+[ext_resource path="res://src/Levels/UI.tscn" type="PackedScene" id=6]
+
+[node name="Level" type="Node2D"]
+
+[node name="Spawner" parent="." instance=ExtResource( 2 )]
+
+[node name="Background" parent="." instance=ExtResource( 3 )]
+
+[node name="GroundEnemies" type="Node2D" parent="."]
+
+[node name="GroundItems" type="Node2D" parent="."]
+
+[node name="AirEnemies" type="Node2D" parent="."]
+position = Vector2( 518, 563 )
+
+[node name="PlayerBullets" type="Node2D" parent="."]
+
+[node name="AirItems" type="Node2D" parent="."]
+
+[node name="PlayerLayer" type="Node2D" parent="."]
+
+[node name="Player" parent="PlayerLayer" instance=ExtResource( 1 )]
+position = Vector2( 356, 865 )
+
+[node name="EnemyBullets" type="Node2D" parent="."]
+position = Vector2( 518, 563 )
+
+[node name="UI" parent="." instance=ExtResource( 6 )]

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Rain of Lasers.ogg-be9a93325a9972d80b1e609cf7aea783.oggstr"
+
+[deps]
+
+source_file="res://assets/unsorted/music/Rain of Lasers.ogg"
+dest_files=[ "res://.import/Rain of Lasers.ogg-be9a93325a9972d80b1e609cf7aea783.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

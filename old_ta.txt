@@ -1,0 +1,83 @@
+TIME ATTACK
+
+Length: 2min
+Sections: 30?
+Spawners create a fixed amount of enemies
+Except midboss section and after, where they are timer based
+
+Score system:
+Chaining -> multiplier (not GPS)
+Medals -> proximity, cancels (Alternate)
+Secrets -> hidden items, bonus for killing red enemies in certain ways
+Clear bonus -> no miss, number of kills, number of items, max combo
+
+Enemies:
+S1a: Flies in fixed path, aimed shots
+S1b: Fires more shots
+S1RED: Moves faster, 10k for killing, 100k for killing all
+S2a: Flies towards player
+S2b: Fires 3-way that are slower (looks like it leaves behind a trail that moves forward)
+S2RED: Kills all normal S2 in its group, 20k for killing it first
+S3a: 5-way shots, U-turns
+S3b: 8-way shots
+S3RED: 20k for every 2 waves destroyed
+M1a: 8-way streams, aimed shots
+M1b: Faster, more bullets
+M1RED: Turns red and escapes after 1 volley, 50k for killing when it is red
+M2a: Slightly random aimed spray, layered downward shots
+M2b: More bullets
+M2RED: Downward shots become missiles, escapes after 1 wave, 60k when all 3 are destroyed
+M3a: Homing missiles, rings
+M3b: More bullets
+M3RED: 40k for destroying all missiles
+L1a: Double spiral pattern (like DDP st3 boss)
+L1b: More layers? Smaller gaps?
+L2a: Fancy pattern to cover sides, aimed shots
+L2b: Extra pattern overlapping?
+
+Player:
+Infinite lives
+No bombs
+Max power always
+2 options
+Hidden types: higher speed, smaller hitbox, more power
+Option behaviour
+
+Medals:
+
+
+Other changes:
+Explosions: single (small), ring/arc (mid), random (large)
+Assets: medals, enemies (or palette swap), options, missiles, bullets (or pallete swap)
+
+Sections:
+1: S1
+2: M2
+3: S1+4R
+4: M1
+5: S2
+6: S1 and M2+3R
+7: S3
+8: S1 and M1+1R
+9: S2+10R
+10: S3+2R and M2
+11: M3
+12: L1
+13: S3+4R (bonus)
+14: S1+8R and M2+3R
+15: S3 and M3+1R
+16: S2+4R and M1+2R
+17: S1+4R and S3+2R
+18: M2 and M3+2R
+19: S2 and M2+3R
+20: S1+4R and M1+1R
+21: S2+6R and S3+2R
+22: S1+8R and M3+2R
+23: M1+3R and M2
+24: L2
+25: S2+10R (bonus)
+26: S1 and S3+4R
+27: M3+2R
+28: S1 and S3 and M2
+29: S2 and S3
+30: S1 and M1 and M3
